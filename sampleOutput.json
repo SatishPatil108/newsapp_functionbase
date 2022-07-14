@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Sarah Rumpf, Paul Best",
+      "title": "New York City's monkeypox vaccine website crashes due to sky-high demand - Fox News",
+      "description": "New Yorkers struggled to book appointments for monkeypox vaccines on Wednesday in a botched roll out of the website. The website crashed within minutes of launch.",
+      "url": "https://www.foxnews.com/health/new-york-city-monkeypox-vaccine-website-crashes-due-demand",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/Monkeypox-1-1.jpg",
+      "publishedAt": "2022-07-13T01:05:50Z",
+      "content": "New York City made another batch of monkeypox vaccines available on Tuesday but the website for appointments crashed within minutes due to sky-high demand, health officials said. \r\nAbout 267 New York… [+3578 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Samantha Lock",
+      "title": "Russia-Ukraine war update: what we know on day 140 of the invasion - The Guardian",
+      "description": "Ukrainian rockets hit Russian-held town in Kherson; death toll in Chasiv Yar, eastern Ukraine, rises to at least 45",
+      "url": "https://amp.theguardian.com/world/2022/jul/13/russia-ukraine-war-update-what-we-know-on-day-140-of-the-invasion",
+      "urlToImage": null,
+      "publishedAt": "2022-07-13T00:23:00Z",
+      "content": "Ukraines president, Volodymyr Zelenskiy, says Russia doesnt have the courage to admit defeat. In a nationally televised address, Zelenskiy also mocked the Russian militarys apparent reliance on agein… [+177 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Rick Noack",
+      "title": "Uber files: Macron defends dealings with company after leak - The Washington Post",
+      "description": "« I would do it again tomorrow and the day after tomorrow, » the French president said.",
+      "url": "https://www.washingtonpost.com/world/2022/07/12/france-uber-leak-macron-parliament-inquiry/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZO2VDKYHV5BPRBRSAKSG5KEFM4.jpg&w=1440",
+      "publishedAt": "2022-07-13T00:17:00Z",
+      "content": "Comment on this story\r\nPARIS French President Emmanuel Macron on Tuesday defended his interactions with Uber, responding to a trove of company documents that reveal he at times even surprised executi… [+4447 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Kate Zernike",
+      "title": "Louisiana Judge Allows Abortions to Become Legal Again - The New York Times",
+      "description": "For the second time, a judge temporarily blocked the state’s trigger bans, which went into effect after the Supreme Court overturned Roe v. Wade.",
+      "url": "https://www.nytimes.com/2022/07/12/us/louisiana-abortion-legal-trigger-ban.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/07/12/us/12louisiana-abortion/12louisiana-abortion-facebookJumbo-v2.jpg",
+      "publishedAt": "2022-07-13T00:15:20Z",
+      "content": "The clinic that joined the lawsuit, Hope Medical Group for Women, said it would again start providing abortions in Shreveport. It had stopped providing them on Friday, but remained open to see patien… [+1023 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheWrap"
+      },
+      "author": "Missy Schwartz",
+      "title": "Succession Breaks Emmy Acting Nomination Record With 14 Nods - TheWrap",
+      "description": "HBO's critically acclaimed series Succession broke the Emmy acting nomination record with 14 nods in total for Season 3.",
+      "url": "http://www.thewrap.com/succession-season-3-emmy-nominations-record/",
+      "urlToImage": "https://www.thewrap.com/wp-content/uploads/2021/11/succession-season-3-episode-5.jpg",
+      "publishedAt": "2022-07-13T00:00:21Z",
+      "content": "HBO’s “Succession” scooped up the most Emmy nominations Tuesday morning with 25 and it broke the record for the most acting nominations in a single year. \r\nThe much-celebrated series about the inner … [+1676 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Twitter sues Elon Musk to hold him to $44 billion deal - Reuters",
+      "description": "Twitter Inc <a href=\"https://www.reuters.com/companies/TWTR.N\" target=\"_blank\">(TWTR.N)</a> sued Elon Musk on Tuesday for violating his $44 billion deal to buy the social media platform and asked a Delaware court to order the world's richest person to complet…",
+      "url": "https://www.reuters.com/technology/twitter-sues-elon-musk-hold-him-44-bln-merger-2022-07-12/",
+      "urlToImage": "https://www.reuters.com/resizer/DW0dmXmtuUery6ghKTA4oNaxDWI=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EDE5MKZAJBMZFJY46AXVGDIPUM.jpg",
+      "publishedAt": "2022-07-12T23:33:00Z",
+      "content": "WILMINGTON, Del., July 12 (Reuters) - Twitter Inc (TWTR.N) sued Elon Musk on Tuesday for violating his $44 billion deal to buy the social media platform and asked a Delaware court to order the world'… [+4401 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": null,
+      "title": "The secret support system for former aides taking on Trump: The other women - POLITICO",
+      "description": "As the Jan. 6 hearings have progressed, a cadre of young, female, former Trump aides have created an informal support network to support it.",
+      "url": "https://www.politico.com/news/2022/07/12/ladies-club-donald-trump-00045478",
+      "urlToImage": "https://static.politico.com/04/e3/e5ff632b4af9ac0866377db5ee8f/capitol-riot-investigation-58935.jpg",
+      "publishedAt": "2022-07-12T23:30:00Z",
+      "content": "The women felt mutually stunned as they watched. They were also concerned for Hutchinson, understanding that as soon as she left that hearing room, shed face intense scrutiny from the media, nasty me… [+9510 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "William Harwood",
+      "title": "James Webb Space Telescope images released by NASA after first color photo unveiled at White House - CBS News",
+      "description": "The early release photos provide a taste of the discoveries to come from the $10 billion telescope.",
+      "url": "https://www.cbsnews.com/news/james-webb-space-telescope-images-released-nasa-after-first-color-photo/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/07/12/f203862f-d333-4273-9d4f-9cd0175435ae/thumbnail/1200x630/8b631cb54e181271a7de7aa654cd9eb3/main-image-star-forming-region-carina-nircam-final-1280.jpg",
+      "publishedAt": "2022-07-12T23:27:00Z",
+      "content": "Greenbelt, Maryland - After a presidential reveal Monday, NASA unveiled more spectacular \"first light\" pictures from the James Webb Space Telescope on Tuesday, showcasing interacting galaxies, the de… [+8779 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": "Travis Schlepp",
+      "title": "Starbucks to close 6 ‘high-incident’ locations in Los Angeles - KTLA Los Angeles",
+      "description": "Six Starbucks locations in Los Angeles will be closing in the coming weeks due to what the company is calling a high frequency of “challenging incidents.” A spokesperson for the coffee giant confirmed the closures and provided KTLA with a letter from Debbie S…",
+      "url": "https://ktla.com/news/local-news/starbucks-to-close-6-high-incident-locations-in-los-angeles/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2022/07/AP19349084475819.jpeg?w=1280",
+      "publishedAt": "2022-07-12T23:22:28Z",
+      "content": "Six Starbucks locations in Los Angeles will be closing in the coming weeks due to what the company is calling a high frequency of “challenging incidents.”\r\nA spokesperson for the coffee giant confirm… [+2176 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Lesley Goldberg",
+      "title": "“Every Show Has Got to Work Harder”: HBO Boss on Emmy Nominations Haul - Hollywood Reporter",
+      "description": "Logo text Casey Bloys found himself in a familiar position Tuesday after the 2022 Emmy nominations were unveiled: alone at the top of the pack of the most-nominated outlets as HBO — even without the benefit of HBO Max — easily topped Netflix. HBO had five of …",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/hbo-boss-casey-bloys-2022-emmys-nominations-1235179324/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/07/Succession-Still-Casey-Bloys-Inset-Emmy-Getty-H-2022.jpg?w=1024",
+      "publishedAt": "2022-07-12T23:08:58Z",
+      "content": "Casey Bloys found himself in a familiar position Tuesday after the 2022 Emmy nominations were unveiled: alone at the top of the pack of the most-nominated outlets as HBO — even without the benefit of… [+6600 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Whitehouse.gov"
+      },
+      "author": "The White House",
+      "title": "President Biden and President Lopez Obrador Joint Statement - The White House",
+      "description": "The United States and Mexico affirm our broad and deep cooperation and commitment to building a more prosperous and secure future for the people of North",
+      "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/07/12/president-biden-and-president-lopez-obrador-joint-statement/",
+      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png",
+      "publishedAt": "2022-07-12T22:53:05Z",
+      "content": "The United States and Mexico affirm our broad and deep cooperation and commitment to building a more prosperous and secure future for the people of North America.  As we face unprecedented global and… [+7364 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "Donovan Mitchell trade rumors: Jazz listening to offers for star guard, Knicks expected to pursue, per reports - CBS Sports",
+      "description": "The Jazz recently traded Rudy Gobert and look to be starting a rebuild",
+      "url": "https://www.cbssports.com/nba/news/donovan-mitchell-trade-rumors-jazz-listening-to-offers-for-star-guard-knicks-expected-to-pursue-per-reports/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/12/6c4ff263-d8f0-44d6-941d-a56733108571/thumbnail/1200x675/9c53e2dc5661c906d0c7be43f1842437/mitchell-g.jpg",
+      "publishedAt": "2022-07-12T22:43:00Z",
+      "content": "The Utah Jazz have changed course and are now showing a willingness to listen to trade offers for All-Star guard Donovan Mitchell, according to Adrian Wojnarowski. For the past few weeks, the Jazz ha… [+2936 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Brendan Griffiths",
+      "title": "The best Prime Day deals 2022: a live roundup of the latest offers - Android Central",
+      "description": "Bringing you the hottest offers in mobiles, tech and more",
+      "url": "https://www.androidcentral.com/news/live/prime-day-deals-2022",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jFf2AyqJHSDWriZGwJpbVM-1200-80.jpg",
+      "publishedAt": "2022-07-12T22:40:31Z",
+      "content": "2022-07-12T22:40:53.301Z\r\n(Image credit: Samsung)\r\nPrime Day Chromebook deals don't seem to be getting very much love from the internet this year, which is a shame since there are quite a few amazing… [+19043 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Mike Reiss",
+      "title": "Source -- Chicago Bears acquire New England Patriots WR N'Keal Harry for seventh-round pick - ESPN",
+      "description": "The Chicago Bears have acquired wide receiver N'Keal Harry from the New England Patriots in exchange for a 2024 seventh-round draft choice, a source told ESPN's Field Yates.",
+      "url": "https://www.espn.com/nfl/story/_/id/34233138/source-chicago-bears-acquire-new-england-patriots-wr-nkeal-harry-seventh-round-pick",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1021%2Fr926234_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-07-12T22:18:04Z",
+      "content": "FOXBOROUGH, Mass. -- The Chicago Bears have acquired wide receiver N'Keal Harry from the New England Patriots in exchange for a 2024 seventh-round draft choice, a source told ESPN's Field Yates.\r\nHar… [+2020 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Nelson Aguilar",
+      "title": "Download iOS 16 Beta on Your iPhone: What to Know Before You Install - CNET",
+      "description": "What to do before you hit that download button.",
+      "url": "https://www.cnet.com/tech/services-and-software/download-ios-16-beta-on-your-iphone-what-to-know-before-you-install/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/c3b161a90aedf2285a357efaf65024047027891e/2022/06/06/c895bc62-3f31-4741-b28c-8250f0b4d5fe/ios-16-purple.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-07-12T21:56:16Z",
+      "content": "The iOS 16 public beta is here, and now anyone with a compatible iPhone can now download it and try it out on their iPhone. It's fairly simple to install it, and it's free, too. If you're excited to … [+4990 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Houston Keene",
+      "title": "Josh Hawley says Democrats 'have lost their minds' after tense exchange with progressive law prof goes viral - Fox News",
+      "description": "Missouri Senator Josh Hawley, a Republican, said Democrats \"have lost their minds\" after a tense exchange between him and a pro-abortion law professor went viral.",
+      "url": "https://www.foxnews.com/politics/josh-hawley-democrats-lost-minds-tense-exchange-progressive-law-prof",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/hawley.jpg",
+      "publishedAt": "2022-07-12T21:31:14Z",
+      "content": "FIRST ON FOX: Missouri Republican Senator Josh Hawley says the Democrats \"have lost their minds\" after his tense exchange with a progressive pro-choice California law professor\r\n went viral.\r\nHawley … [+4280 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "NASA’s Perseverance Rover Scouts Mars Sample Return Campaign Landing Sites - SciTechDaily",
+      "description": "The six-wheeled roving explorer has inspected a stretch of the Red Planet to see if it is flat enough for NASA’s next Mars lander. While NASA’s Perseverance Mars rover is conducting its science campaign, taking samples at Jezero Crater’s ancient river delta, …",
+      "url": "https://scitechdaily.com/nasas-perseverance-rover-scouts-mars-sample-return-campaign-landing-sites/",
+      "urlToImage": "https://scitechdaily.com/images/Mars-Sample-Return-Lander-Touchdown-scaled.jpg",
+      "publishedAt": "2022-07-12T21:28:37Z",
+      "content": "BySciTechDailyJuly 12, 2022\r\nIn this illustration of a Mars sample return mission concept, a lander carrying a fetch rover touches down on the surface of Mars. Credit: NASA/JPL-Caltech\r\nThe six-wheel… [+6147 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Ali Harb",
+      "title": "Israel-Palestine US policy: What changed under Biden, what didn’t - Al Jazeera English",
+      "description": "As Joe Biden visits Israel and Palestine, Al Jazeera examines how his policies compare to Donald Trump’s approach.",
+      "url": "https://www.aljazeera.com/news/2022/7/12/israel-palestine-us-policy-what-changed-under-biden-what-didnt",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/07/2022-07-11T123750Z_1868430823_RC2O9V9DS7ST_RTRMADP_3_USA-BIDEN-ISRAEL-PALESTINIANS-PREPS.jpg?resize=1200%2C630",
+      "publishedAt": "2022-07-12T21:22:30Z",
+      "content": "A self-proclaimed Zionist, President Joe Biden is often cited by his top aides as saying that if there were no Israel, the United States would have to create one.\r\nSo when Biden took the White House,… [+10780 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Alex Rogers, Katelyn Polantz, Evan Perez and Tierney Sneed, CNN",
+      "title": "Liz Cheney: Committee informed DOJ that Trump attempted to contact a witness not yet seen in the hearings - CNN",
+      "description": "Rep. Liz Cheney, the vice chairwoman of the House select committee investigating the January 6, 2021, insurrection, said at the panel's hearing Tuesday that former President Donald Trump attempted to contact a witness who has not yet been publicly identified.",
+      "url": "https://www.cnn.com/2022/07/12/politics/liz-cheney-witness-contacted-january-6/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220712143115-liz-cheney-0712-super-tease.jpg",
+      "publishedAt": "2022-07-12T21:16:00Z",
+      "content": "(CNN)Rep. Liz Cheney, the vice chairwoman of the House select committee investigating the January 6, 2021, insurrection, said at the panel's hearing Tuesday that former President Donald Trump attempt… [+1866 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Neeraj G. Patel and Virginia Langmaid, CNN",
+      "title": "Genetically modified pig heart transplanted into deceased recipient, researchers say - CNN",
+      "description": "A surgical team transplanted a heart from a genetically modified pig into a deceased human as part of a research study, researchers with NYU Langone Health announced Tuesday.",
+      "url": "https://www.cnn.com/2022/07/12/health/pig-heart-transplant-nyu/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220712102921-01-pig-heart-transplant-decedent-super-tease.jpg",
+      "publishedAt": "2022-07-12T21:14:00Z",
+      "content": null
+    }
+  ]
+}
